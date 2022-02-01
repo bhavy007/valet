@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/valetItNow/static/css/main.610563f9.chunk.css",
-    "main.js": "/valetItNow/static/js/main.aa48ce3f.chunk.js",
-    "main.js.map": "/valetItNow/static/js/main.aa48ce3f.chunk.js.map",
-    "runtime-main.js": "/valetItNow/static/js/runtime-main.f4de31d2.js",
-    "runtime-main.js.map": "/valetItNow/static/js/runtime-main.f4de31d2.js.map",
-    "static/js/2.38c1c860.chunk.js": "/valetItNow/static/js/2.38c1c860.chunk.js",
-    "static/js/2.38c1c860.chunk.js.map": "/valetItNow/static/js/2.38c1c860.chunk.js.map",
-    "index.html": "/valetItNow/index.html",
-    "static/css/main.610563f9.chunk.css.map": "/valetItNow/static/css/main.610563f9.chunk.css.map",
-    "static/js/2.38c1c860.chunk.js.LICENSE.txt": "/valetItNow/static/js/2.38c1c860.chunk.js.LICENSE.txt"
+    "main.css": "/valet/static/css/main.610563f9.chunk.css",
+    "main.js": "/valet/static/js/main.aa48ce3f.chunk.js",
+    "main.js.map": "/valet/static/js/main.aa48ce3f.chunk.js.map",
+    "runtime-main.js": "/valet/static/js/runtime-main.aab2da53.js",
+    "runtime-main.js.map": "/valet/static/js/runtime-main.aab2da53.js.map",
+    "static/js/2.38c1c860.chunk.js": "/valet/static/js/2.38c1c860.chunk.js",
+    "static/js/2.38c1c860.chunk.js.map": "/valet/static/js/2.38c1c860.chunk.js.map",
+    "index.html": "/valet/index.html",
+    "static/css/main.610563f9.chunk.css.map": "/valet/static/css/main.610563f9.chunk.css.map",
+    "static/js/2.38c1c860.chunk.js.LICENSE.txt": "/valet/static/js/2.38c1c860.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f4de31d2.js",
+    "static/js/runtime-main.aab2da53.js",
     "static/js/2.38c1c860.chunk.js",
     "static/css/main.610563f9.chunk.css",
     "static/js/main.aa48ce3f.chunk.js"
