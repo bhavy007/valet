@@ -2,7 +2,6 @@
   
   "name": "valetitnow",
   "version": "0.1.0",
-  
   "private": true,
   "dependencies": {
     "@googlemaps/react-wrapper": "^1.1.15",
